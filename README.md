@@ -36,12 +36,6 @@ All of this is powered by **Retrieval-Augmented Generation (RAG)**, ensuring tha
 - ✅ Agent-based Modular Design
 - ✅ RAG for Fact-Based Responses
 
-## 📸 Demo Screenshot
-
-![Demo Screenshot](link_to_screenshot.png) *(replace with actual image link)*
-
-## 🏁 Getting Started
-
 ### Prerequisites
 
 - Python 3.8+
